@@ -20,12 +20,14 @@ export default makeStyles({
     borderRadius: '15px',
     height: '100%',
     position: 'relative',
+    // backgroundColor:'#4F5490'
   },
   overlay: {
-    position: 'absolute',
-    top: '20px',
-    left: '20px',
-    color: 'white',
+    marginTop:'30px',
+    // position: 'absolute',
+    // top: '20px',
+    // left: '20px',
+    // color: 'white',
   },
   overlay2: {
     position: 'absolute',
